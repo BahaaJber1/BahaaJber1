@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&background=78CFBAE6&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&background=78CFBAE6&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Bahaa
 
