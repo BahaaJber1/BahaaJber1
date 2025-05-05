@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
-
+[[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
+](https://readme-typing-svg.demolab.com/demo/?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&background=78CFBAE6&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)
 
 
 # 👋 Hi, I'm Bahaa
