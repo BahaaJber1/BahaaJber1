@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
+
+
+
 # 👋 Hi, I'm Bahaa
 
 I'm a web developer and IT graduate with a passion for building tools that make life easier, clearer, and more manageable. I work mostly with Node.js and modern JavaScript frameworks, and I'm driven by the idea that good code can empower people, especially when it’s designed with empathy and purpose.
