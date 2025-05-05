@@ -54,10 +54,10 @@ Whether I’m building a backend or writing a research paper, I believe in inten
 
 📫 Let's Connect
 
-🌐 LinkedIn: [Your LinkedIn URL]
+🌐 LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/bahaa-jber-619482244/)
 
 📹 YouTube: Coming soon – developer tutorials
 
-📧 Email: [yourname@example.com] (optional)
+📧 Email: jber5953@gmail.com
 
 Thanks for visiting my profile. If you’re working on something meaningful—or want to—feel free to reach out. I’m always open to connecting, collaborating, or just chatting about big ideas and clean code.
