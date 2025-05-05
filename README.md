@@ -1,6 +1,6 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<h1 align="center">👋 Hi, I'm Bahaa </h1>
+#👋 Hi, I'm Bahaa 
 
 I'm a web developer and IT graduate with a passion for building tools that make life easier, clearer, and more manageable. I work mostly with Node.js and modern JavaScript frameworks, and I'm driven by the idea that good code can empower people, especially when it’s designed with empathy and purpose.
 
