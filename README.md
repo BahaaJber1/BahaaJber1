@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
 
-#👋 Hi, I'm **Bahaa** 
+# 👋 Hi, I'm **Bahaa** 
 
 I’m a web developer and recent IT graduate who’s always been drawn to solving problems in practical, meaningful ways. For me, code isn’t just about functionality, it’s about **helping** people feel less overwhelmed and more in control of their digital lives. I enjoy working with **Node.js, React** and modern JavaScript frameworks, but what really drives me is building things that actually make a difference. Whether it’s simplifying a task, organizing information, or creating clarity where there was confusion—I want my work to matter, and I want it to *feel* human.
 
