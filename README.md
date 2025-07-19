@@ -1,28 +1,28 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&duration=3000&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
 
-#👋 Hi, I'm Bahaa 
+#👋 Hi, I'm **Bahaa** 
 
-I'm a web developer and IT graduate with a passion for building tools that make life easier, clearer, and more manageable. I work mostly with Node.js and modern JavaScript frameworks, and I'm driven by the idea that good code can empower people, especially when it’s designed with empathy and purpose.
+I’m a web developer and recent IT graduate who’s always been drawn to solving problems in practical, meaningful ways. For me, code isn’t just about functionality, it’s about **helping** people feel less overwhelmed and more in control of their digital lives. I enjoy working with **Node.js, React** and modern JavaScript frameworks, but what really drives me is building things that actually make a difference. Whether it’s simplifying a task, organizing information, or creating clarity where there was confusion—I want my work to matter, and I want it to *feel* human.
 
 ---
 
 ## 🌍 A Little About Me
 
-- 👨‍💻 I'm focused on full-stack web development using **Node.js**, **Express.js**, and a clean, modular approach to building APIs and UIs.  
-- 💬 I care deeply about building systems that are not only efficient but respectful of human needs, whether in education, mental health, or day-to-day productivity.  
-- 🧠 I'm currently researching how wearable **IoT devices** can help detect early signs of stress and fatigue. This is an academic project grounded in real-world problems, and while it's still under development, it’s a topic I feel personally connected to.  
+- 👨‍💻 I'm focused on full-stack web development using **Node.js**, **Express.js**, **React**, and a clean, modular approach to building APIs and UIs.  
+- 💬 I care deeply about building systems that are not *only* **efficient but respectful of human needs**, whether in education, mental health, or day-to-day productivity.  
+- 🧠 I finished my research about how wearable **IoT devices** can help detect early signs of stress and fatigue. This is an academic project grounded in real-world problems, and it’s a topic I feel personally **connected** to. 
 - 🌱 Outside of code, I'm working on myself—building self-confidence, managing anxiety, and learning to approach life with more calm and clarity.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL, Python  
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL, Python, C++, Java 
 - **Backend:** Node.js, Express.js, REST APIs  
-- **Frontend:** EJS, React (learning), Bootstrap  
-- **Databases:** PostgreSQL, MongoDB  
-- **Tools:** Git & GitHub, Postman, VS Code  
-- **Learning:** TypeScript, Next.js, OAuth2, WebSockets  
+- **Frontend:** EJS, React, Bootstrap, Tailwind  
+- **Databases:** PostgreSQL  
+- **Tools:** Git & GitHub, Postman, Figma, VS Code  
+- **Learning:** JSDoc, Next.js, OAuth2 
 
 ---
 
@@ -31,17 +31,15 @@ I'm a web developer and IT graduate with a passion for building tools that make 
 ### 📚 College Assistant (Flask → Node.js)
 A smart study planner that helps university students track completed courses and receive personalized study plans. Originally built with Flask, now being refactored using Node.js and Express for better structure and scalability.
 
-### 🧠 IoT for Mental Health (Research Paper)
-An academic research project exploring how wearable sensors can monitor stress and fatigue in real-time using physiological data. The device is still in concept phase but grounded in meaningful goals: prevention, awareness, and early intervention.
 
 ---
 
 ## 🎯 Goals for 2025
 
-- 🎥 Launch a YouTube series on Git, GitHub, and version control workflows  
+- 🧰 Building a portfolio of tools that reflect who I am—practical, thoughtful, and genuinely helpful
 - 🔐 Get deeper into web security and ethical development practices  
-- 🧑‍🤝‍🧑 Collaborate on open-source Node.js and Express projects  
-- 🧰 Build a portfolio of real tools that genuinely help people  
+- 🚀 Grow as a full-stack developer by challenging myself with real-world projects
+- 🧭 Focus on building a career path that aligns with my values, skills, and long-term vision 
 
 ---
 
@@ -56,8 +54,7 @@ Whether I’m building a backend or writing a research paper, I believe in inten
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bahaa-jber-619482244/)  
-- 📧 jber5953@gmail.com  
-- 📹 YouTube: Coming soon – developer tutorials
+- 📧 bahaa.JamalJber@gamil.com
 
 ---
 
