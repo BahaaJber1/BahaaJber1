@@ -1,61 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times&size=50&duration=3000&pause=100&color=58A4B0&center=true&vCenter=true&width=500&height=100&lines=Bahaa+Jber;Full+Stack+Developer)](https://git.io/typing-svg)
+<h1 align="center">I'm Bahaa Jber</h1>
 
-# 👋 Hi, I'm **Bahaa** 
+###
 
-I’m a web developer and recent IT graduate who’s always been drawn to solving problems in practical, meaningful ways. For me, code isn’t just about functionality, it’s about **helping** people feel less overwhelmed and more in control of their digital lives. I enjoy working with **Node.js, React** and modern JavaScript frameworks, but what really drives me is building things that actually make a difference. Whether it’s simplifying a task, organizing information, or creating clarity where there was confusion—I want my work to matter, and I want it to *feel* human.
+<h2 align="center">Full-Stack Developer</h2>
 
----
+###
 
-## 🌍 A Little About Me
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BahaaJber1.BahaaJber1&right_color=purple&left_text=Profile%20Views"  />
+</div>
 
-- 👨‍💻 I'm focused on full-stack web development using **Node.js**, **Express.js**, **React**, and a clean, modular approach to building APIs and UIs.  
-- 💬 I care deeply about building systems that are not *only* **efficient but respectful of human needs**, whether in education, mental health, or day-to-day productivity.  
-- 🧠 I finished my research about how wearable **IoT devices** can help detect early signs of stress and fatigue. This is an academic project grounded in real-world problems, and it’s a topic I feel personally **connected** to. 
-- 🌱 Outside of code, I'm working on myself—building self-confidence, managing anxiety, and learning to approach life with more calm and clarity.
+###
 
----
+<h3 align="left">Languages & Tools:</h3>
 
-## 🛠 Tech Stack
+###
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL, Python, C++, Java 
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Frontend:** EJS, React, Bootstrap, Tailwind  
-- **Databases:** PostgreSQL  
-- **Tools:** Git & GitHub, Postman, Figma, VS Code  
-- **Learning:** JSDoc, Next.js, OAuth2 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+</div>
 
----
+###
 
-## 🚀 What I'm Working On
+<h3 align="left">Connect with me:</h3>
 
-### 📚 College Assistant (Flask → Node.js)
-A smart study planner that helps university students track completed courses and receive personalized study plans. Originally built with Flask, now being refactored using Node.js and Express for better structure and scalability.
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/bahaajber/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Bahaa_Jber_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/876360563163295774" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:bahaa.jamaljber@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🎯 Goals for 2025
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BahaaJber1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BahaaJber1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BahaaJber1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-- 🧰 Building a portfolio of tools that reflect who I am—practical, thoughtful, and genuinely helpful
-- 🔐 Get deeper into web security and ethical development practices  
-- 🚀 Grow as a full-stack developer by challenging myself with real-world projects
-- 🧭 Focus on building a career path that aligns with my values, skills, and long-term vision 
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BahaaJber1/BahaaJber1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BahaaJber1/BahaaJber1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BahaaJber1/BahaaJber1/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🧭 Philosophy
-
-> _"Code is more than syntax—it's a language of care, design, and responsibility."_
-
-Whether I’m building a backend or writing a research paper, I believe in intentional, human-centered work. Tech isn’t just what we build—it’s how we show up for others through our tools.
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bahaa-jber-619482244/)  
-- 📧 bahaa.JamalJber@gamil.com
-
----
-
-Thanks for visiting my profile. If you’re working on something meaningful—or want to—feel free to reach out!
+###
