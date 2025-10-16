@@ -65,3 +65,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/BahaaJber1/BahaaJber1/output/snake.svg" alt="Snake animation" />
+
+###
+
